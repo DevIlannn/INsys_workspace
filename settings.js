@@ -36,6 +36,9 @@ export const settings = {
     warning: "#FFD166",
     info: "#4ECDC4",
     dim: "#374151",
+    primaryDark: "#CC4400",
+    muted: "#888888",
+    white: "#F0F0F0",
   },
 
   layout: {
@@ -55,6 +58,7 @@ export const settings = {
     padding: 1,
     maxWidth: 120,
     minWidth: 60,
+    lineChar: "─",
   },
 
   i18n: {
@@ -311,4 +315,3 @@ export const i18n = {
     latestDeployment: "最新デプロイ",
   },
 };
-
